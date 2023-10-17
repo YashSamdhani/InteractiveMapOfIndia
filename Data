@@ -1,0 +1,29 @@
+name,latitude,longitude,color,information
+Andhra Pradesh(Amaravati),16.4425259,80.4106771,red,red
+Arunachal Pradesh(Itanagar),27.0869089,93.6086019,blue,blue
+Assam(Dispur),26.244156,92.537842,gray,gray
+Bihar(Patna),25.612677,85.158875,darkred,darkred
+Chhattisgarh(Raipur),21.295132,81.828232,lightred,lightred
+Goa(Panaji),15.496777,73.827827,orange,orange
+Gujarat(Gandhinagar),23.23322,72.67324,beige,beige
+Haryana(Chandigarh),29.065773,76.040497,green,green
+Himachal Pradesh(Shimla),31.104605,77.173393,darkgreen,darkgreen
+Jharkhand(Ranchi),23.344315,85.296013,lightblue,lightblue
+Karnataka(Bangalore),12.971599,77.594566,darkblue,darkblue
+Kerala(Thiruvananthapuram),8.520929,76.9412,lightblue,lightblue
+Madhya Pradesh(Bhopal),23.098703,77.505005,purple,purple
+Maharashtra(Mumbai),19.032801,75.71389,darkpurple,darkpurple
+Manipur(Imphal),24.813967,93.950279,pink,pink
+Meghalaya(Shillong),25.487389,90.412735,cadetblue,cadetblue
+Mizoram(Aizawl),23.717396,92.718117,lightgray,lightgray
+Nagaland(Kohima),25.658596,94.105331,beige,beige
+Odisha(Bhubaneshwar),20.296059,85.824539,gray,gray
+Punjab(Chandigarh),30.741482,76.768066,darkred,darkred
+Rajasthan(Jaipur),26.229376,75.780945,lightred,lightred
+Sikkim(Gangtok),27.338936,88.606506,orange,orange
+Tamil Nadu(Chennai),13.067439,80.237617,beige,beige
+Telangana(Hyderabad),17.38714,78.491684,green,green
+Tripura(Agartala),23.829321,91.277847,darkgreen,darkgreen
+Uttarakhand(Dehradun),30.316496,78.032188,lightblue,lightblue
+Uttar Pradesh(Lucknow),26.85,80.949997,darkblue,darkblue
+West Bengal(Kolkata),22.572645,88.363892,beige,beige
